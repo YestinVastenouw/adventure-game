@@ -38,7 +38,7 @@ var db = [
         ] 
     },
     {
-        "question": "This is the first question",
+        "question": "This is the third question",
         "background": "none",
         "description": "Placeholder description for the time being.",
         "buttons": [
